@@ -1,11 +1,11 @@
 
 🔭 I love Programming.
 
-🌱 JavaScript is my Favorite programming Language.
+🌱 JavaScript is my Favourite programming Language.
 
 🥅 Everyday I try to solve some problem by using javaScipt.
 
-⚡ Now a days React.js, Express.Js and Node.js on of my favorite JavaScript technology.
+⚡ Now a days React.js, Express.Js and Node.js on of my favourite JavaScript technology.
 
 
 

@@ -13,7 +13,7 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://i.ibb.co/fxBs83W/iconfinder-71-github-4202098.png" />](https://github.com/Mahmudul-Hasan-Anik)
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://i.ibb.co/BZhDq0t/iconfinder-Colored-Facebook3-svg-5365678.png" />](https://www.facebook.com/Anik13m/)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://i.ibb.co/CsnqNjZ/iconfinder-square-linkedin-317725.png" />](https://www.linkedin.com/in/fahim-sadnan-8548a1191/https://www.linkedin.com/in/anik-dev/)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://i.ibb.co/CsnqNjZ/iconfinder-square-linkedin-317725.png" />](https://www.linkedin.com/in/anik-dev/)
 <!-- ### Connect with me:
 <br />
 

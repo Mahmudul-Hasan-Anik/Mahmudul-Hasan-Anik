@@ -29,7 +29,7 @@ const mHasan = {
 };
 ```
 
-- 🏢 Working at **[XpeedStudio](https://github.com/xpeedstudio)** — building world-class WordPress plugins
+- 🏢 Working at **[Roxnor](https://github.com/xpeedstudio)** — building world-class WordPress plugins
 - 🔧 Specialized in **Gutenberg Block Editor** development and **WordPress plugin** architecture
 - 🌐 Contributor to browser extension tooling and open-source WordPress ecosystem
 - ⚡ Passionate about clean UI, performant React components, and great developer experience
@@ -81,7 +81,7 @@ As a Frontend Developer at **Roxnor**, I actively contribute to these popular Wo
 I actively contribute to the WordPress open-source ecosystem:
 
 - 🔵 **[WordPress/Gutenberg](https://github.com/WordPress/gutenberg)** — The Block Editor project for WordPress and beyond
-- 🔵 **[XpeedStudio](https://github.com/xpeedstudio)** — Enterprise-level WordPress plugin development
+- 🔵 **[Roxnor](https://github.com/xpeedstudio)** — Enterprise-level WordPress plugin development
 
 > *Contributing to open source makes me a better developer and helps the wider community grow.*
 
@@ -93,7 +93,7 @@ I actively contribute to the WordPress open-source ecosystem:
 [![Personal GitHub](https://img.shields.io/badge/Personal%20GitHub-Mahmudul--Hasan--Anik-181717?style=for-the-badge&logo=github)](https://github.com/Mahmudul-Hasan-Anik)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anik-dev/)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/Anik13m/)
-[![XpeedStudio](https://img.shields.io/badge/XpeedStudio-Team-e94560?style=for-the-badge&logo=wordpress)](https://github.com/xpeedstudio)
+[![Roxnor](https://img.shields.io/badge/Roxnor-Team-e94560?style=for-the-badge&logo=wordpress)](https://github.com/xpeedstudio)
 
 </div>
 
